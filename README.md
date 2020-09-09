@@ -1,2 +1,2 @@
 # uri-respostas
-Resolução dos exercícios do URI em python e java
+Resolução dos exercícios do URI em javascript/node, python e java
